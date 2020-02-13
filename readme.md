@@ -5,6 +5,7 @@
 
 - initialize the project with `npm init`
 - install express with `npm i express`
+- Create a single endpoint and return "hello world"
 - Start the app with `node server.js`
 - Test the server, and add another get endpoint
 - Install pm2 `npm install pm2 -g` 
