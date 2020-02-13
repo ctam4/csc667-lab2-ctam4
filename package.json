@@ -1,0 +1,24 @@
+{
+  "name": "calvin-lab2",
+  "version": "1.0.0",
+  "description": "This is a lab",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfsu-667-spring-2020/lab2-ctam4.git"
+  },
+  "author": "Calvin Tam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfsu-667-spring-2020/lab2-ctam4/issues"
+  },
+  "homepage": "https://github.com/sfsu-667-spring-2020/lab2-ctam4#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  }
+}
